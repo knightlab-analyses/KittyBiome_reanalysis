@@ -17,4 +17,4 @@ reanalysis of the KittyBiome 16S V4 dataset (in collaboration with [AnimalBiome]
 
 ## Data Availability
 
-<br>[KittyBiome dataset used in this paper](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1200722/)
+<br>KittyBiome dataset used in this paper:  [NCBI PRJNA1200722](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1200722/)
