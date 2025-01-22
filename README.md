@@ -14,3 +14,7 @@ reanalysis of the KittyBiome 16S V4 dataset (in collaboration with [AnimalBiome]
 
 <br>[Original KittyBiome paper](https://doi.org/10.1101/2022.10.26.513817) 
 <br>This paper: [mSystems Observation Paper](currently unknown, submitted)
+
+## Data Availability
+
+<br>[KittyBiome dataset used in this paper](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1200722/)
