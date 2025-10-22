@@ -13,7 +13,7 @@ reanalysis of the KittyBiome 16S V4 dataset (in collaboration with [AnimalBiome]
 ## Paper Versions
 
 <br>[Original KittyBiome paper](https://doi.org/10.1101/2022.10.26.513817) 
-<br>This paper: [<i>npj Veterinary Science</i>](accepted-proofing stage, waiting on final link)
+<br>This paper: [<i>npj Veterinary Science</i> (2025)](https://doi.org/10.1038/s44433-025-00001-6 )
 
 ## Data Availability
 
